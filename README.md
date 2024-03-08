@@ -1,4 +1,3 @@
 hello odin
 
-
-hello odi# git_test
+This is me learning this project.
